@@ -107,14 +107,13 @@ to allow participants to directly compare two scenes.
 
 ## Directory Structure
 
-stimuli-static-images/
-├─ single_condition_images/
-│ └─ 15 base stimuli (Img_01–Img_15)
-│
-├─ pairwise_comparison_images/
-│ └─ 21 questionnaire stimuli (q1–q21)
-│
-└─ README.md
+- `stimuli-static-images/`
+  - `single_condition_images/`
+    - 15 base stimuli (Img_01–Img_15)
+  - `pairwise_comparison_images/`
+    - 21 questionnaire stimuli (q1–q21)
+  - `README.md`
+
 
 
 ---
